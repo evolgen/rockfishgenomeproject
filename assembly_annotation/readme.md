@@ -11,7 +11,7 @@ A) High quality whole genomes (we refer to them as PacBio based genomes or refer
 B) Illumina only whole genomes
 1) De novo assembly was performed by masurca
 2) All 102 samples were de novo assembled
-3) Scaffolding was performed using reference using RagTag
+3) Scaffolding was performed using reference using RagTag - uploaded on Zenodo at https://zenodo.org/record/5534983
 
 C) Mitogenome assembly and annotation
 1) Illumina PE data was error corrected using musket
@@ -29,4 +29,5 @@ E) Annotation
 4) Noncoding annotations using tRNAscan-SE and infernal
 5) Interproscan was used to search for functional domains and gene families in the reference genomes
 6) For Illumina only genomes, LiftOff was used for annotations based on the reference genomes
-
+7) The genome annotation GFF files are on Zenodo - https://zenodo.org/record/5534983
+8) Annotation files for aleutianus and Sebastolobus are missing on zenodo, hence uploaded here - aleutianus_alascanus.gff3.zip
